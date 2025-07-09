@@ -1,5 +1,5 @@
 package controllers;
 
-public interface EmpleadoDAOHasMap {
+public class EmpleadoDAOHashMap {
 
 }
